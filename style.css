@@ -1,0 +1,293 @@
+/* Google Fontsから手書き風（Kiwi Maru）を読み込み */
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@400;500&display=swap');
+
+:root {
+    --spulse-orange: #faa528;
+    --spulse-deep-blue: #003366; /* エスパルス紺 */
+    --warm-white: #fffcf9;
+    --text-dark: #4a4a4a;
+}
+
+/* --- 画面全体のレイアウト --- */
+body {
+    font-family: 'Kiwi Maru', serif;
+    background-color: var(--warm-white);
+    color: var(--text-dark);
+    margin: 0;
+    padding-bottom: 50px;
+}
+
+#app-container {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: white;
+    min-height: 100vh;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+@media (min-width: 600px) {
+    body {
+        background-color: #e0e0e0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+/* --- ヘッダー・フッター --- */
+.date-header, #family-selector, #archive-section {
+    background-color: var(--spulse-orange) !important;
+    color: white;
+    border: none;
+}
+
+/* ヘッダーの文字：左に余白 */
+.date-header h2 {
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 12px 0 12px 20px; /* 左側に20pxの余白 */
+    text-align: left;
+}
+
+/* 状態ラベル：センター揃え */
+#status-label {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.8rem;
+    margin: 25px 0;
+    color: var(--text-dark);
+}
+
+/* --- 家族選択エリア --- */
+#family-selector {
+    padding: 15px 10px !important;
+    border-bottom: 4px solid var(--spulse-deep-blue);
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+/* 名前ボタン：ホバーをはっきりと */
+.user-select-btn {
+    background: white;
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 8px 18px;
+    font-size: 0.9rem;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.user-select-btn:hover {
+    background: #fff0d0; /* 薄いオレンジ */
+    transform: translateY(-2px); /* 少し浮き上がる */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    border-color: var(--spulse-orange);
+}
+
+.user-select-btn.active {
+    background: var(--spulse-deep-blue);
+    color: white;
+    border-color: var(--spulse-deep-blue);
+    transform: scale(1.05);
+}
+
+/* 料理人ボタン：控えめ且つ可愛く */
+#btn-enter-admin {
+    font-size: 0.75rem;
+    background: #ffffffdd;
+    border: 1px solid var(--spulse-deep-blue);
+    border-radius: 8px;
+    padding: 4px 12px;
+    color: var(--spulse-deep-blue);
+    margin: 10px auto 5px;
+    display: block;
+    width: fit-content;
+    box-shadow: 0 2px 0 var(--spulse-deep-blue);
+}
+
+#btn-enter-admin:active {
+    box-shadow: none;
+    transform: translateY(2px);
+}
+
+/* --- 投票カード：ボタンを右に固定する魔法 --- */
+.vote-card {
+    background: white;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    margin: 0 10px 15px !important;
+}
+
+.vote-card .card-body {
+    display: flex;             /* 横並びにする */
+    align-items: center;       /* 上下中央揃え */
+    justify-content: space-between; /* 左右の端に寄せる */
+    padding: 15px 15px 15px 20px;   /* 左の余白を多めに */
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin: 0;
+    padding-right: 15px; /* ボタンとの距離を確保 */
+    line-height: 1.4;
+    word-break: break-all;
+    flex-grow: 1; /* 名前が長くても、可能な限り幅を占領する */
+}
+
+.btn-vote, .btn-request {
+    background-color: var(--spulse-orange);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 14px;
+    font-size: 0.85rem;
+    white-space: nowrap; /* 自身の文字は改行しない */
+    flex-shrink: 0;      /* 自分が押しつぶされないように死守する */
+    box-shadow: 0 3px 0 #e68a00;
+}
+
+.btn-vote:active, .btn-request:active {
+    transform: translateY(2px);
+    box-shadow: none;
+}
+
+/* リクエスト入力欄の横並び死守 */
+#request-input {
+    flex-grow: 1;
+    min-width: 50px; /* 限界まで小さくなれるように */
+    border: 2px solid #eee;
+    border-radius: 10px;
+    padding: 8px;
+    margin-right: 8px;
+    font-family: inherit;
+}
+/* --- 写真：どんな比率でもバシッと決める --- */
+#final-dish-photo {
+    width: 100%;
+    height: 250px;       /* 写真の定位置（高さ）を固定 */
+    overflow: hidden;    /* 枠からはみ出た分は隠す */
+    margin: 10px 0;      /* 上下の隙間を最小限に */
+}
+
+
+#display-final-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;   /* 重要：比率を維持したまま枠いっぱいに広げ、余白を作らない */
+    border-radius: 0;    /* 左右の余白をなくすため角丸も解除 */
+}
+
+/* --- 実食・感想エリア全体の調整 --- */
+#section-feedback {
+    padding: 0 15px; /* セクション全体に左右の余白を確保 */
+}
+
+#admin-post-display {
+    border: none;
+    background: transparent;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+/* 料理名と管理者コメントに余白を戻す */
+#display-menu-names, #display-admin-comment {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* --- 写真：左右の余白を無視して画面いっぱいに広げる魔法 --- */
+#final-dish-photo {
+    width: calc(100% + 30px); /* 親のpadding分(15px×2)を外に広げる */
+    margin-left: -15px;      /* 左に15px無理やり引っ張る */
+    height: 250px;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#display-final-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* --- スタンプ：上品な整列と控えめな数字 --- */
+.stamp-button-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 5列に固定 */
+    gap: 8px;
+    padding: 10px 15px;
+}
+
+.btn-stamp {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    padding: 6px 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 55px; /* 高さを統一してガタつきをなくす */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+}
+
+/* 絵文字とテキスト */
+.btn-stamp span:first-child {
+    font-size: 0.85rem; /* テキストと絵文字を1行に収めるサイズ */
+    margin-bottom: 4px;
+    color: #444;
+}
+
+/* 数字（ここを大幅に小さくしました） */
+.btn-stamp .count {
+    font-size: 0.6rem;   /* 数字をかなり小さく */
+    background: #f0f0f0;
+    color: #999;
+    padding: 1px 6px;
+    border-radius: 8px;
+    min-width: 18px;     /* 横幅を揃えて上品に */
+    text-align: center;
+}
+
+/* 誰かが押した時だけオレンジを点灯 */
+.btn-stamp.active {
+    border-color: var(--spulse-orange);
+    background-color: #fffaf0;
+}
+
+.btn-stamp.active .count {
+    background: var(--spulse-orange);
+    color: white;
+}
+
+/* --- 感想タイムライン：JSと連動するクラス --- */
+#timeline-list .list-group-item {
+    background: white;
+    border: none !important;
+    border-radius: 15px !important;
+    margin-bottom: 15px !important;
+    padding: 15px !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+.timeline-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 8px;
+}
+/* フッター */
+#archive-section h2 {
+    color: white;
+    font-size: 1.3rem;
+    padding: 15px 0;
+    margin: 0;
+    text-align: center;
+}

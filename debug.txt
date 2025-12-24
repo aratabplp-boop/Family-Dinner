@@ -1,0 +1,3414 @@
+Array
+(
+    [action] => post_vote
+    [user_id] => 2
+    [menu_id] => 999
+    [content] => やきにく
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 999
+    [content] => そば
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 999
+    [content] => あらたスペシャル
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 999
+    [content] => カレー希望です。
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 999
+    [content] => カレー
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+        )
+
+    [message] => 
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 3
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 5
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 3
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 4
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 2
+    [menu_id] => 6
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 5
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 4
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 3
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 4
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 6
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 3
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 8
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 2
+    [menu_id] => 7
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 9
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 9
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 8
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 9
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 8
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 9
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 8
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 7
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 10
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 2
+    [menu_id] => 11
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 12
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 13
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 10
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 12
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 18
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 999
+    [content] => カレーがいいな
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 2
+    [menu_id] => 999
+    [content] => キムチ鍋！
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 999
+    [content] => 僕もキムチ鍋！
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 999
+    [content] => マグロが食べたい！
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 2
+    [menu_id] => 999
+    [content] => マグロがいいな
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 999
+    [content] => やっぱりカレー
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+        )
+
+    [message] => １８時までに決めてね！
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => delete_master_menu
+    [id] => 1
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => add_master_menu
+    [menu_name] => パパスペシャルカレー
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => add_master_menu
+    [menu_name] => 野菜たっぷりしゃぶしゃぶ
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => update_mode
+    [status] => LIVING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => ARCHIVE
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => add_master_menu
+    [menu_name] => スペシャルカレー
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+            [4] => スペシャルカレー
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => LIVING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => スペシャルカレー
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 軍鶏鍋
+            [2] => スペシャルカレー
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => add_master_menu
+    [menu_name] => スペシャルカレー
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+            [4] => スペシャルカレー
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 1
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 3
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 5
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 2
+    [menu_id] => 2
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+            [4] => スペシャルカレー
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 6
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 7
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => LIVING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+            [4] => スペシャルカレー
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 12
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 14
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 999
+    [content] => キムチ鍋がいいな
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => LIVING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => restart_session
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => スペシャルカレー
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 17
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => LIVING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => update_mode
+    [status] => LIVING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => update_mode
+    [status] => LIVING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 16
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 18
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => add_master_menu
+    [menu_name] => キムチ鍋
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => スペシャルカレー
+            [4] => キムチ鍋
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => 今日はカレーです。
+    [photo] => 
+    [comment] => 辛いよー
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => カレーだよ
+    [photo] => 
+    [comment] => 辛いよ！
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => カレーだよ！
+    [photo] => 
+    [comment] => 辛くするよー
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => しゃぶしゃぶです！
+    [photo] => http://
+    [comment] => 和牛だよ
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => 生ハム盛り合わせ
+    [photo] => 
+    [comment] => スペイン産だよ
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => イサキ
+    [photo] => 
+    [comment] => 千葉沖産
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => ほくほくしちゅー
+    [photo] => 
+    [comment] => じゃがいもたっぷり
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => さば
+    [photo] => 
+    [comment] => 神奈川沖
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => グラタン
+    [photo] => 
+    [comment] => ポテト中心
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => カップヌードル
+    [photo] => 
+    [comment] => カレー味
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => すし
+    [photo] => 
+    [comment] => すしたか
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => カレー
+    [photo] => 
+    [comment] => ニンニクたっぷり
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => キムチカレー
+    [photo] => 
+    [comment] => からいよ
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => チーズもりあわせ
+    [comment] => アナトールも大好き
+    [photo_url] => 📸 選択済み: a cute mouse tasting.png
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 1
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 2
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 3
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 5
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 3
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 6
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 4
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 10
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 2
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 12
+    [num] => 5
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_comment
+    [meal_id] => 12
+    [user_id] => 3
+    [content] => めちゃめちゃおいしいよ
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => 深川めし
+            [1] => 天ぷら
+            [2] => 湯豆腐
+            [3] => 軍鶏鍋
+            [4] => スペシャルカレー
+            [5] => キムチ鍋
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => delete_master_menu
+    [id] => 1
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => delete_master_menu
+    [id] => 2
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_master_menu
+    [id] => 3
+    [new_name] => ほくほくポテトグラタン
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_master_menu
+    [id] => 4
+    [new_name] => 野菜たっぷりラーちゃん鍋
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_master_menu
+    [id] => 5
+    [new_name] => スペシャルパパカレー
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_master_menu
+    [id] => 6
+    [new_name] => 食べてびっくり謎餃子
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => add_master_menu
+    [menu_name] => CookDo中華祭り
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => ほくほくポテトグラタン
+            [1] => 野菜たっぷりラーちゃん鍋
+            [2] => スペシャルパパカレー
+            [3] => 食べてびっくり謎餃子
+            [4] => CookDo中華祭り
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => add_master_menu
+    [menu_name] => 豪快！鉄板焼き
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => ほくほくポテトグラタン
+            [1] => 野菜たっぷりラーちゃん鍋
+            [2] => スペシャルパパカレー
+            [3] => 食べてびっくり謎餃子
+            [4] => CookDo中華祭り
+            [5] => 豪快！鉄板焼き
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => save_admin_post
+    [menus] => スペシャルパパカレー
+    [comment] => お肉ゴロゴロニンニクたっぷり
+    [photo_url] => 📸 選択済み: Currry 2025-12-24 124754.png
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 13
+    [num] => 3
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 13
+    [num] => 2
+)
+Array
+(
+)
+Array
+(
+    [action] => post_comment
+    [meal_id] => 13
+    [user_id] => 3
+    [content] => からかったよー。でもおいしい
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_comment
+    [meal_id] => 13
+    [user_id] => 4
+    [content] => ニンニク効いてる！
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 13
+    [num] => 1
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 13
+    [num] => 6
+)
+Array
+(
+)
+Array
+(
+    [action] => post_stamp
+    [meal_id] => 13
+    [num] => 4
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => ほくほくポテトグラタン
+            [1] => 野菜たっぷりラーちゃん鍋
+            [2] => スペシャルパパカレー
+            [3] => 食べてびっくり謎餃子
+            [4] => CookDo中華祭り
+            [5] => 豪快！鉄板焼き
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 2
+    [menu_id] => 42
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 4
+    [menu_id] => 44
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 5
+    [menu_id] => 44
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 3
+    [menu_id] => 999
+    [content] => おすし！
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 44
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => post_vote
+    [user_id] => 1
+    [menu_id] => 45
+    [content] => 
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => FEEDBACK
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+    [action] => get_latest_meal
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [action] => get_master_menus
+)
+Array
+(
+    [action] => update_mode
+    [status] => VOTING
+)
+Array
+(
+    [action] => set_todays_menus
+    [menu_names] => Array
+        (
+            [0] => ほくほくポテトグラタン
+            [1] => 野菜たっぷりラーちゃん鍋
+            [2] => スペシャルパパカレー
+            [3] => 食べてびっくり謎餃子
+            [4] => CookDo中華祭り
+        )
+
+    [message] => 
+)
+Array
+(
+)
+Array
+(
+)
