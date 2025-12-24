@@ -18,7 +18,7 @@
 
 
 ## 3. アプリのデプロイURL
-   - 
+   - https://aratabplp-boop.github.io/Family-Dinner/
 
 
 ## 4. ログイン＆パスワード
